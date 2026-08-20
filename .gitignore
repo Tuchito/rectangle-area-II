@@ -1,0 +1,38 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Cobertura y testing
+.coverage
+.pytest_cache/
+htmlcov/
+
+# mypy
+.mypy_cache/
+
+# Configuración de editor / IDE
+.vscode/
+.idea/
+.cursor/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# LeetCode / práctica algorítmica
+*.pyc
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+.DS_Store
+
+# Variables de entorno sensibles
+.env
